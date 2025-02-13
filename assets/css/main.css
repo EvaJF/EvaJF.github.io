@@ -1835,6 +1835,14 @@ input, select, textarea {
 					background-color: #006599;
 				}
 
+				ul.social li a.fa-google {
+					background-color: #FAFAFA;
+				}
+
+				ul.social li a.fa-orcid {
+					background-color: #0fc92e;
+				}
+
 				ul.social li a.fa-tumblr {
 					background-color: #51718A;
 				}
@@ -1965,8 +1973,16 @@ input, select, textarea {
 			display: none;
 		}
 
+		.icon.solid {
+			color: #EA8A95;
+			display: block;
+			margin: 0 0 1.5em 0;
+			cursor: default;
+		}
+
 		.icon.solid:before {
 			font-weight: 900;
+			font-size: 5em;
 		}
 
 		.icon.brands:before {
