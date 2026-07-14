@@ -41,8 +41,6 @@ img { max-width: 100%; }
 .section-alt, .style2 { background: var(--wash); }
 
 h1, h2, h3, h4 { line-height: 1.16; margin-top: 0; }
-h1 { font-size: clamp(2.55rem, 5.8vw, 5.2rem); letter-spacing: -.045em; max-width: 900px; }
-h2 { font-size: clamp(2rem, 3.5vw, 3.25rem); letter-spacing: -.035em; }
 h3 { font-size: 1.35rem; }
 h4 { font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; margin: 1.35rem 0 .35rem; }
 .lead, .section-lead { font-size: clamp(1.12rem, 1.6vw, 1.35rem); max-width: 780px; }
